@@ -2,6 +2,7 @@
 This repository contains a collection of C language programs and examples. Whether you're learning C programming or looking for specific algorithms and implementations, you'll find useful code snippets here.
 
 Table of Contents
+
 [Introduction](#Introduction)
 
 [Programs](#Programs)
