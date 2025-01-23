@@ -3,7 +3,9 @@ This repository contains a collection of C language programs and examples. Wheth
 
 Table of Contents
 [Introduction](#Introduction)
+
 [Programs](#Programs)
+
 [Contributing](#Contributing)
 
 ## Introduction
