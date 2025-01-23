@@ -2,15 +2,15 @@
 This repository contains a collection of C language programs and examples. Whether you're learning C programming or looking for specific algorithms and implementations, you'll find useful code snippets here.
 
 Table of Contents
-Introduction
-Programs
-Contributing
+[Introduction](#Introduction)
+[Programs](#Programs)
+[Contributing](#Contributing)
 
-**Introduction**
+## Introduction
 
 Welcome to the C Programming Repository! This repository is designed to help beginners and intermediate programmers learn and practice C language concepts through practical examples.
 
-**Programs**
+## Programs
 
 Here's a brief overview of what you'll find in this repository:
 
@@ -20,7 +20,7 @@ Here's a brief overview of what you'll find in this repository:
 - Examples: Practical examples showcasing the usage of C in different scenarios.
 - Feel free to explore and use these programs for learning and reference purposes.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you have any useful C programs or improvements to existing ones, feel free to contribute. Here's how you can do it:
 
