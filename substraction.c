@@ -5,7 +5,7 @@ int main()
 {
   int x=10, y=20,z;
   z=x-y;
-  printf("Sum=%d",z);
+  printf("Difference=%d",z);
 }
 
 /// Substraction of two numbers without using third variable
@@ -14,7 +14,7 @@ int main()
 int main()
 {
   int x=10,y=20;
-  printf("Sum=%d",x-y);
+  printf("Difference=%d",x-y);
 }
 
 /// Substraction of two numbers by taking values from user
