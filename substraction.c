@@ -28,5 +28,5 @@ int main()
   scanf("%d",&y);
   printf("Difference=%d",x-y);
   // display in the format like 20 - 10 = 10
-  printf("%d + %d = %d",x,y,x-y);
+  printf("%d - %d = %d",x,y,x-y);
 }
